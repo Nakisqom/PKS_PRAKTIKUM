@@ -1,7 +1,7 @@
 /*
 LATIHAN (1) 06-03-23
 122440001
-IF ELSE IF
+IF ELSE
 */
 
 #include <iostream>
