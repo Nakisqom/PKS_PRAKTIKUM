@@ -1,4 +1,8 @@
-//LATIHAN 06-02-23
+/*
+LATIHAN (1) 06-03-23
+122440001
+IF ELSE IF
+*/
 
 #include <iostream>
 using namespace std;
